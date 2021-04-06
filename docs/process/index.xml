@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HFACS-Cyber Process on HFACS-Cyber</title>
+    <link>/docs/process/</link>
+    <description>Recent content in HFACS-Cyber Process on HFACS-Cyber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 15:58:53 +0000</lastBuildDate><atom:link href="/docs/process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting_started</title>
+      <link>/docs/process/getting-started/</link>
+      <pubDate>Wed, 20 Jan 2021 15:58:53 +0000</pubDate>
+      
+      <guid>/docs/process/getting-started/</guid>
+      <description>getting started</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/docs/process/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/process/second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
